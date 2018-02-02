@@ -37,6 +37,6 @@ npm run build --report
 ## 效果
 ![](https://github.com/CleverFan/bf-editor/blob/master/show.png)
 
-丑是丑了点。。现在重心不在这里。。之后会改的~~
+##丑是丑了点。。现在重心不在这里。。之后会改的~~
 
 > 前端初学者，代码很烂不要在意。。
